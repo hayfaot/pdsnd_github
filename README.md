@@ -1,17 +1,18 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+hello there this is my project with MISK - Udacity .
 
 ### Date created
-Include the date you created this project and README file.
+Created in 6/9/2021 .
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare data.
 
 ### Description
-Describe what your project is about and what it does
+In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.we will write code to import the data and answer interesting questions about it by computing descriptive statistics.we will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+ new_yourk_city.csv- Containing all bikeshare information for the city of new yourk provided by udacity.
+ chicago.csv - containing all bikeshare information for the city of chicago provided by udacity.
+ washington.csv - this file contains all bikeshare information for the city of washington provided by udacity.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Iwould like to mention MISK FOUNDATION for giving me this opportunity -and UDACITY Nanodegree programfor their instructors.
